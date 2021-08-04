@@ -1,0 +1,5 @@
+hier können sie beliebige Texte eingeben, halt ohne Formatierung.
+und so weiter...
+GIT:
+    Repositiory - Projekt
+    Commit      - Zwischenspeicher (Version) der Dateien
