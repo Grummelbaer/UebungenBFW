@@ -3,3 +3,5 @@ und so weiter...
 GIT:
     Repositiory - Projekt
     Commit      - Zwischenspeicher (Version) der Dateien
+
+jetzt können wir unsere Erzeugnisse ins internet hochladen
